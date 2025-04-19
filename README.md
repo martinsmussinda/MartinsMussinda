@@ -1,8 +1,7 @@
 # Olá 👋
-## 👨‍💻 Sou Martins Mussinda
-### Estudante de Engenharia da Computação | Programador Iniciante
+## 👨‍💻 Sou Martins, sou angolano, e sou programador iniciante. Sou estudante de Engenharia da Computação no Instituto Politécnico da Huíla da Universidade Mandume Ya Ndemufaio
 
-- 💻 Atualmente estou aprendendo as Linguagens:  
+- 💻 Atualmente estou aprendendo as seguintes Linguagens:  
   - JavaScript  
   - Java 
   - PHP
