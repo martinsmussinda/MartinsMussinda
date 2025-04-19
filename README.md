@@ -1,16 +1,21 @@
-## Hi there 👋
+## Olá 👋
 
-<!--
-**martinsmussinda/MartinsMussinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Sou Martins Mussinda
 
-Here are some ideas to get you started:
+### Estudante de Engenharia da Computação | Programador Iniciante
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Estou aprendendo as Linguagens:  
+  - JavaScript  
+  - Java 
+  - PHP
+  - Python 
+
+- 🎯 Áreas de interesse:  
+  - Desenvolvimento Web  
+  - Inteligência Artificial  
+  - Ciência de Dados  
+  - Tecnologias Emergentes  
+
+- 📚 Sempre em busca de novos conhecimentos e desafios!
+
+> "Comprometido com a aprendizagem contínua e o desenvolvimento de soluções inovadoras."
