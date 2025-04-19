@@ -1,10 +1,8 @@
-## Olá 👋
-
-# 👨‍💻 Sou Martins Mussinda
-
+# Olá 👋
+## 👨‍💻 Sou Martins Mussinda
 ### Estudante de Engenharia da Computação | Programador Iniciante
 
-- 💻 Estou aprendendo as Linguagens:  
+- 💻 Atualmente estou aprendendo as Linguagens:  
   - JavaScript  
   - Java 
   - PHP
